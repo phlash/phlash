@@ -1,5 +1,12 @@
-### Hi there 👋
+### Hi folks!
 
+You can find out little more about me personally on my [own blog site](https://www.ashbysoft.com/articles/phlash), for those interested in my technical background, I wrote an [introduction post on dev.to](https://dev.to/phlash/hi-im-phil-ashby) that has some historical details.
+
+These days I help with a few open source projects, like [SoapySDR](https://github.com/pothosware/SoapySDR), [Openscenegraph](https://github.com/openscenegraph/OpenSceneGraph) and [Backscrub](https://github.com/floe/backscrub) mostly here on Github plus I do too many experiments with some sillier ideas (like getting DOOM to run on a hacker camp badge) :grin:
+
+If you like what I do and want to buy me a beer or two, please feel free to [PaypalMe](https://paypal.me/PhlashBeers), thanks!
+
+Phlash.
 <!--
 **phlash/phlash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
