@@ -1,6 +1,6 @@
 ### Hi folks!
 
-__NB: I am moving most of my work to Sourcehut - archived repositories will remain here for a few months, then I will delete them. If you have a fork, please update your remote - all moved repositories have links to their new homes. Ta!__
+__NB: I am moving most of my work to [Sourcehut](https://sr.ht/~phlash/) - archived repositories will remain here for a few months, then I will delete them. If you have a fork, please update your remote - all moved repositories have links to their new homes. Ta!__
 
 You can find out a little more about me personally on my [own blog site](https://www.ashbysoft.com/articles/phlash), for those interested in my technical background, I wrote an [introduction post on dev.to](https://dev.to/phlash/hi-im-phil-ashby) that has some historical details. I hang out on the Fediverse, find me <a rel="me" href="https://mastodon.me.uk/@phlash">on Mastodon</a>..
 
