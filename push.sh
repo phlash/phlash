@@ -6,4 +6,4 @@ git add --all
 git commit -m 'updated by push.sh'
 git push
 # now copy to phone sync folder
-cp -p phlash.kdbx /home/shared/downloads/SM-A045/phlash.kdbx
+cp -p phlash.kdbx /home/shared/downloads/SM-A045F/
